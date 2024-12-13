@@ -1,0 +1,16 @@
+1. Create a folder
+2. Go inside that folder
+3. Create a VueJS project: vue create <Name of your project gotbooks>
+4. goto your project folder: cd gotbook
+
+
+5. Install the fake json server: npm i json-server
+6. Keep your db.json in the same folder of your Vue Project (its already there in the boilerplate code)
+7. Modify your package.json: "fakejson": "npx json-server --watch -p 5555 db.json" 
+
+8. Start Fake JSON: npm run fakejson 
+
+And in a separate terminal
+
+9. Start Vue: npm run serve 
+ 
