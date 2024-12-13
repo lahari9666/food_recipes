@@ -1,0 +1,53 @@
+{
+  "recipes": [
+{
+  "id":1,
+  "food_item_name":"Biryani",
+  "image": "https://static.vecteezy.com/system/resources/previews/024/650/050/non_2x/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai-free-photo.jpg",
+  "ingredients":"Basmati rice, chicken, shahi jeera, bay leaves, cloves, star anise, cardamom, turmeric, red chilli powder, salt, biryani masala, giner garlic paste, yellow onion, ghee, cilantro, mint ",
+  "recipe":"1. Marinate the chicken with yogurt, ginger garlic paste, turmeric, red chilli powder, lemon juice, salt, garam masala and refridgerate it 30 minutes. \n2. Rinse the basmati rice for 2-3 times and soak it in water for 20 minutes. \n3. meanwhile take some oil and deep fry the slices of onion \n4. In a medium pot add 8 cupes of water , cumin seeds, bay leaves, star anise, cardamom, cloves, salt \n5. Drain the rice and add it to the boiling water lower the heat and let it cook for 6-7 minutes. when the rice is 90% cooked, drain the rice and reserve \n6. add some ghee and the marinated chicken and cook it for 10 minutes.\n7. gently layer the rice and chicken in a pan, top it with the caramelized onions and cover it with a lid and cook on low heat for 20 minutes.",
+  "nutrition_info":"601kcal",
+  "prep_time":"1 hour 30 minutes",
+  "country_of_origin":"India"
+},
+{
+  "id":2,
+  "food_item_name":"Lasagna",
+  "image":"https://static.vecteezy.com/system/resources/previews/030/624/911/large_2x/lasagna-image-hd-free-photo.jpg",
+  "ingredients":"ricotta cheese, large egg, mozzarella cheese, parmesan cheese, italian seasoning, salt, pepper, olive oil, yellow onion, ground beef, italian sausage, garlic, chicken broth, marinara sauce, tomato paste, hot sauce, lasagna noodles",
+  "recipe":"1. combine the ricotta cheese, an egg, mozzarella cheese, parmesan cheese, italian seasoning, salt and pepper in a medium bowl and set it aside. \n2. Heat olive oil and add diced onions and let them soften for 10 minutes \n3. add ground beef and sausage and increase heat to medium heat. break up the meat till its fine and crumbled. cook for 10 minutes and add garlic \n4. Add chicken broth and clean the bottom and sides of the pot using a spatula. \n5. Add marinara sauce, tomato paste, hot sauce, worcestershire sauce and boil them on simmer. meanwhile boil the pasta noodles. \n6. Spread a cup of meat sauce on bottom of the caserole dish. add 4 lasagna noodles. \n7. spread 1/3rd cup of ricotta cheese mixture over noodles followed by 1.5 cup of meat sauce. \n8. Repeat this process and at the end top it with the mozzarella cheese and cover it with a foil \n9. Bake it for 35 minutes and remove cover and bake for 10 more minutes",
+  "nutrition_info":"497kcal",
+  "prep_time":"1 hour 40 minutes",
+  "country_of_origin":"Italy"
+},
+{
+  "id":3,
+  "food_item_name":"Ghee Pongal",
+  "image": "https://t4.ftcdn.net/jpg/01/42/70/69/360_F_142706914_QZYCR8rh3X2d9FRVB5KxhYs7q9tb5FdL.jpg",
+  "ingredients":"Rice, Moong dal, cumin, black pepper, curry leaves, ginger, asafoetida, ghee, cashews",
+  "recipe":"1. Take 1/4 cup of moong dal and add them to a pan and roast them. Put thrn pan off the stove and add 1/2 cup of rice and rinse tgen a couple times. \n2. add the rice and moong dal mixture to a pressure cooker. Add 1/2tsp cumin seeds, 1/8 tsp asafetida, 1tsp chopped ginger and salt. \n3. Add 3 cups of water and Cook the lentils for 6 whistles \n4. In a small pan, heat ghee, 1 tsp cumin seeds, 10-12 cashwes, black pepper, curry leaves and fry them well before adding them to the cooked rice. mix them well and cover the lid for 10 minutes",
+  "nutrition_info":"285kcal",
+  "prep_time":"25 minutes",
+  "country_of_origin":"India"
+},
+{
+  "id":4,
+  "food_item_name":"Chocolate cake",
+  "image": "https://media.istockphoto.com/id/1370520449/photo/slice-of-chocolate-cake-with-glaze.jpg?s=612x612&w=0&k=20&c=KK-h7w4l0FNA0YMWvkr1X8UrAAB77z0f5tTByBYgReM=",
+  "ingredients":"white sugar, all-purpose flour, cocoa powder, baking powder, baking soda, salt, eggs, milk, oil, vanilla extract",
+  "recipe":"1. pre heat the oven to 350 degrees and grease, flour 2 round baking pans. \n2. stir sugar, flour, cocoa powder, baking powder, baking soda and salt in a large bowl. \n3. add eggs, milk, vanilla and mix them together. add some hot water till the batter becomes consistent. \n4. evenly pour into 2 pans and bake in the oven for 30-35 minutes. ",
+  "nutrition_info":"320 kcal",
+  "prep_time":"1 hour",
+  "country_of_origin":"America"
+},
+{
+  "id":5,
+  "food_item_name":"Cheese cake",
+  "image":"https://media.istockphoto.com/id/1167344045/photo/cheesecake-slice-new-york-style-classical-cheese-cake.jpg?s=612x612&w=0&k=20&c=y3eh7cFEefAYxB_5Ow2n1OJZML_PqFOdnB5Z9nvXdgw=",
+  "ingredients":"graham crackers, unsalted butter, granulated sugar, vanilla extract, cream cheese, eggs",
+  "recipe":"1. Keep cream cheese and eggs in room temperature. \n2. make the crackers into fine powder and use it to prepare the cheesecake crust by mixing with butter, sugar, vanilla extract. \n3. pre heat oven to 350 \n4. Use a hand mixer to beat the eggs, vanilla extract, cream cheese, sugar to a smooth mixture without lumps. \n5. pour the mix on top of the crust and bake for 25 minutes. then cool it for 6 hours in refridgerator.",
+  "nutrition_info":"401kcal",
+  "prep_time":"50 minutes",
+  "country_of_origin":"America"
+}
+]}
